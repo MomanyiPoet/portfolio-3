@@ -95,22 +95,22 @@
     
     .self1 {
         height: auto;
-        width: 22%;
+        width: 20%;
         right: 6%;
     }
     
     .self2 {
         height: auto;
-        width: 16%;
-        right: 30%;
+        width: 14%;
+        right: 27%;
         top: 22%;
     }
     
     .self3 {
         height: auto;
-        width: 26%;
-        right: 7%;
-        top: 40%;
+        width: 25%;
+        right: 8%;
+        top: 44%;
     }
 }
 
@@ -132,6 +132,43 @@
     
     .self1 {
         height: auto;
+        width: 19%;
+        right: 5%;
+    }
+    
+    .self2 {
+        height: auto;
+        width: 14%;
+        right: 24%;
+        top: 19%;
+    }
+    
+    .self3 {
+        height: auto;
+        width: 24%;
+        right: 5%;
+        top: 35%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    
+    .text-box p {
+        font-size: 30px;
+    }
+    
+    .text-box h1 {
+        font-size: 100px;
+        line-height: 90px;
+        margin: -4px;
+    }
+    
+    .text-box h3 {
+        font-size: 21px;
+    }
+    
+    .self1 {
+        height: auto;
         width: 24%;
         right: 5%;
     }
@@ -139,89 +176,52 @@
     .self2 {
         height: auto;
         width: 16%;
-        right: 29%;
-        top: 22%;
+        right: 30%;
+        top: 21%;
     }
     
     .self3 {
         height: auto;
         width: 28%;
         right: 7%;
-        top: 38%;
-    }
-}
-
-@media screen and (max-width: 992px) {
-    
-    .text-box p {
-        font-size: 39px;
-    }
-    
-    .text-box h1 {
-        font-size: 140px;
-        line-height: 120px;
-        margin: -6px;
-    }
-    
-    .text-box h3 {
-        font-size: 30px;
-    }
-    
-    .self1 {
-        height: auto;
-        width: 28%;
-        right: 5%;
-    }
-    
-    .self2 {
-        height: auto;
-        width: 20%;
-        right: 32%;
-        top: 20%;
-    }
-    
-    .self3 {
-        height: auto;
-        width: 32%;
-        right: 7%;
-        top: 36%;
+        top: 37%;
     }
 }
 
 @media screen and (max-width: 768px) {
     
     .text-box p {
-        font-size: 35px;
+        font-size: 30px;
     }
     
     .text-box h1 {
-        font-size: 120px;
-        line-height: 100px;
-        margin: -5px;
+        font-size: 100px;
+        line-height: 90px;
+        margin: -4px;
     }
     
     .text-box h3 {
-        font-size: 25px;
+        font-size: 21px;
     }
     
     .self1 {
         height: auto;
-        width: 36%;
+        width: 30%;
         right: 5%;
     }
     
     .self2 {
         height: auto;
-        width: 32%;
-        right: 41%;
-        top: 17%;
+        width: 20%;
+        right: 35%;
+        top: 21%;
     }
     
     .self3 {
         height: auto;
-        width: 46%;
-        right: 5%;
-        top: 36%;
+        width: 36%;
+        right: 7%;
+        top: 37%;
     }
 }
 
@@ -243,20 +243,20 @@
     
     .self1 {
         height: auto;
-        width: 40%;
+        width: 36%;
         right: 5%;
     }
     
     .self2 {
         height: auto;
-        width: 36%;
-        right: 43%;
-        top: 17%;
+        width: 28%;
+        right: 40%;
+        top: 19%;
     }
     
     .self3 {
         height: auto;
-        width: 50%;
+        width: 42%;
         right: 5%;
         top: 34%;
     }
@@ -280,20 +280,20 @@
     
     .self1 {
         height: auto;
-        width: 42%;
+        width: 38%;
         right: 5%;
     }
     
     .self2 {
         height: auto;
-        width: 38%;
+        width: 32%;
         right: 40%;
         top: 17%;
     }
     
     .self3 {
         height: auto;
-        width: 50%;
+        width: 46%;
         right: 5%;
         top: 32%;
     }
